@@ -14,6 +14,8 @@
  
  ⚡ Fun fact **P4L💛🤙🏽🍻**
 
+ 📫 How to reach me **lawaskench@gmail.com**
+
  </div>
 
 <hr/>
