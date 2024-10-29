@@ -11,8 +11,6 @@
 <div align="center">
   
  🌱 I’m currently learning **Laravel, MYSQL**
- 
- ⚡ Fun fact **P4L💛🤙🏽🍻**
 
  📫 Need to reach me? Drop a line at **lawaskench@gmail.com**
 
