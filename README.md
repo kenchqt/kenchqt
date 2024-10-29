@@ -4,9 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kenji👾;" />
 </h1>
 
-<h3 align="center">an Information Technology student focused on web development  🇵🇭</h3>
+<h3 align="center">an Information Technology student focused on web development</h3>
 
 <br/>
+
+<div align="center">
+  
+ 🌱 I’m currently learning **Laravel, MYSQL**
+
+💬 Ask me anything **[here](lawaskench@gmail.com)**
+
+⚡ Fun fact **P4L💛🤙🏽🍻**
 
 
 
