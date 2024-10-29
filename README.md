@@ -14,7 +14,7 @@
  
  ⚡ Fun fact **P4L💛🤙🏽🍻**
 
- 📫 Need to reach me? Drop a line at **lawaskench@gmail.com📧😊**
+ 📫 Need to reach me? Drop a line at **lawaskench@gmail.com**
 
  </div>
 
