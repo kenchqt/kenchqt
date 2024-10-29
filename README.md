@@ -10,7 +10,7 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **Laravel, MYSQL**
+ 🌱 I’m currently learning **Laravel,MYSQL**
 
  📫 Need to reach me? Drop a line at **lawaskench@gmail.com**
 
