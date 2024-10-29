@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @kenchqt
-<!---
-kenchqt/kenchqt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👾 Kenji
+
+Kench Lawas is a dedicated Information Technology student specializing in web development, passionate about building innovative and user-friendly online solutions.
+
+Let me know if you'd like further adjustments!
+
+---
