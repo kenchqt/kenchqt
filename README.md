@@ -1,7 +1,6 @@
 # 👾 Kenji
 
-Kench Lawas is a dedicated Information Technology student specializing in web development, passionate about building innovative and user-friendly online solutions.
+Kenji, an Information Technology student focused on web development, passionate about creating user-friendly websites.
 
-Let me know if you'd like further adjustments!
 
 ---
